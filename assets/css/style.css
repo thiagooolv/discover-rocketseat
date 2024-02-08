@@ -99,6 +99,7 @@ body * {
 
 #switch button:hover {
   outline: 7px solid var(--hightlight-color);
+  cursor: pointer;
 }
 
 /*links*/
